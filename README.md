@@ -1,4 +1,3 @@
 # miprev
-Code repo for personal website. Hosted at https://www.miprev.com
-Static content only
+Code repo for professional website. Hosted at https://www.miprev.com ; Static content only.
 
